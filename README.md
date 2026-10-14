@@ -1,5 +1,14 @@
 # DETR Object Detection (DETR-template)
 
+[![Python](https://img.shields.io/badge/Python-3.13+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x%20%7C%20CUDA%2012.8-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/🤗%20Transformers-DETR-FFD21E.svg)](https://huggingface.co/docs/transformers/)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://docs.astral-sh/uv/)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/muetaek0321/DETR-template?style=flat)](https://github.com/muetaek0321/DETR-template/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/muetaek0321/DETR-template)](https://github.com/muetaek0321/DETR-template/issues)
+
 Hugging Face Transformers を活用した DETR（DEtection TRansformer）およびその派生モデル（Deformable-DETR, RF-DETR, RT-DETR）による物体検出の学習・推論パイプライン＆テンプレートリポジトリです。
 
 ---
